@@ -1,0 +1,2 @@
+gcc -g -Wall -o pth_4 pregunta4.c -lpthread
+
